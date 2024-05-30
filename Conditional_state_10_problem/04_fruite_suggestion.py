@@ -1,3 +1,5 @@
+# eating suggestions according fruite condition
+
 fruite = "Banana"
 color = "Yellow"
 
