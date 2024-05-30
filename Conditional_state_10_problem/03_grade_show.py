@@ -1,3 +1,4 @@
+# show grade according score
 score = 60
 
 if score >= 101:
