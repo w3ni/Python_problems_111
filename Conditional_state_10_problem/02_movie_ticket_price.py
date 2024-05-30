@@ -1,4 +1,4 @@
-# Movie ticket price
+# Movie ticket price discount according day and age
 
 # from datetime import datetime
 
